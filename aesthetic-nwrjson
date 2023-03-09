@@ -1,0 +1,5 @@
+{
+	"enabled": false,
+	"geo_url": "https://geolocation-db.com/json/",
+	"country_key": "country_code"
+}
